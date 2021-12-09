@@ -1,10 +1,10 @@
-<h1> Hello, jagadesh This is devops class   </h1>
-<h1> Hello, world! This Devops Project   </h1>
+ Hello, jagadesh This is devops class   
+ Hello, world! This Devops Project  
 <strong> Hellow Ram</strong>
-<h1> Hello Vatsalya and Navya </h1>
-<body bgcolor=red> </body>
-<h2> This is Ansible jobs </h2>
-<h3> One last test </h3>
+ Hello Vatsalya and Navya 
+<body bgcolor=blue> </body>
+ This is Ansible jobs 
+ One last test 
 <html>
 <body bgcolor=red>
 <h1>Hello world!</h1>
