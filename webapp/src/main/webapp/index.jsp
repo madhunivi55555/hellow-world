@@ -2,7 +2,7 @@
  Hello, world! This Devops Project  
 <strong> Hellow Ram</strong>
  Hello Vatsalya and Navya 
-<body bgcolor=gold> </body>
+<body bgcolor=Green> </body>
  This is Ansible jobs 
  One last test 
 <html>
