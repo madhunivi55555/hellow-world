@@ -1,8 +1,8 @@
  Hello, jagadesh This is devops class   
  Hello, world! This Devops Project  
-<strong> Hellow Ram</strong>
- Hello Vatsalya and Navya 
-<body bgcolor=Green> </body>
+<strong> Hellow Batch_31</strong>
+ Hello Gopi Masthan Purna Sree Mani 
+<body bgcolor=Gold> </body>
  This is Ansible jobs 
  One last test 
 <html>
