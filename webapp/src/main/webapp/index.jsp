@@ -2,7 +2,7 @@
  Hello, world! This Devops Project  
 <strong> Hellow Batch_31</strong>
  Hello Gopi Masthan Purna Sree Mani 
-<body bgcolor=red> </body>
+<body bgcolor=green> </body>
  This is Ansible jobs 
  One last test 
 <html>
